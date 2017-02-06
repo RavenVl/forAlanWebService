@@ -1,0 +1,7 @@
+c:\users\raven\documents\visual studio 2012\Projects\AlanWebService\AlanWebService\bin\AlanWebService.dll
+c:\users\raven\documents\visual studio 2012\Projects\AlanWebService\AlanWebService\bin\AlanWebService.pdb
+c:\users\raven\documents\visual studio 2012\Projects\AlanWebService\AlanWebService\obj\Debug\AlanWebService.csprojResolveAssemblyReference.cache
+c:\users\raven\documents\visual studio 2012\Projects\AlanWebService\AlanWebService\obj\Debug\AlanWebService.dll
+c:\users\raven\documents\visual studio 2012\Projects\AlanWebService\AlanWebService\obj\Debug\AlanWebService.pdb
+C:\Users\Raven\documents\visual studio 2012\Projects\AlanWebService\AlanWebService\bin\System.Data.SQLite.dll
+C:\Users\Raven\documents\visual studio 2012\Projects\AlanWebService\AlanWebService\bin\System.Data.SQLite.pdb
